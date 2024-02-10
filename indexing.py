@@ -2,7 +2,7 @@
 # AUTHOR: Jeremiah
 # FILENAME: indexing.py
 # SPECIFICATION: description of the program
-# FOR: CS 4250- Assignment #1
+# FOR: CS 4250.01 Assignment #1
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/
 
